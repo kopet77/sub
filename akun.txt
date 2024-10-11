@@ -1,0 +1,4 @@
+vless://KOMINFO-NUMBER-ONE@support.zoom.us:443?path=%2Fvl%3D188.64.109.12%3D443&security=tls&encryption=none&host=aio.kominfo.us.kg&type=ws&sni=zoomgov.kominfo.us.kg#Sharon+Networks%2C+LLC+%F0%9F%87%B8%F0%9F%87%AC+%28SG%29
+vless://KOMINFO-NUMBER-ONE@support.zoom.us:443?path=%2Fvl%3D45.32.99.51%3D443&security=tls&encryption=none&host=aio.kominfo.us.kg&type=ws&sni=zoomgov.kominfo.us.kg#The+Constant+Company%2C+%F0%9F%87%B8%F0%9F%87%AC+%28SG%29
+vless://KOMINFO-NUMBER-ONE@support.zoom.us:443?path=%2Fvl%3D3.1.94.232%3D443&security=tls&encryption=none&host=aio.kominfo.us.kg&type=ws&sni=zoomgov.kominfo.us.kg#Amazon.com%2C+Inc.+%F0%9F%87%B8%F0%9F%87%AC+%28SG%29
+vless://KOMINFO-NUMBER-ONE@masukan.bug:443?encryption=none&security=tls&sni=aio.kominfo.us.kg&fp=randomized&type=ws&host=aio.kominfo.us.kg&path=%2Fvl%3D202.186.80.150%3D443#TT%20DOTCOM%20SDN%20🇲🇾%20(MY)
